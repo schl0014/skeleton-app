@@ -1,5 +1,4 @@
-class Animal
-{
+class Animal {
   private readonly name: string;
 
   private readonly legs: number;
